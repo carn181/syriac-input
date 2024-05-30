@@ -1,0 +1,5 @@
+* Syriac Input for Emacs
+
+This provides input methods for three Syriac scripts: Estrangelo, Madhnaya and Serto. The layout aims to be the most phonetic it can be but some vowel markers and orthographic devices are not intuitive. Please see syriac-input.el for the key mapping. Feel fry to suggest any changes.
+
+ܫܠܳܡܳܐ ܠܟܽܠܟ݂ܽܘܿܢ
